@@ -1,17 +1,17 @@
-# 💫 Hi 👋, I'm Sonu Sagar
+# Hi, I'm Sonu Sagar
 
 **A Passionate Software Engineer | MERN Stack Developer | DSA Enthusiast**
 
-📧 Email Me 👉 **[sonu7055k@gmail.com](mailto:sonu7055k@gmail.com)**
+📧 Email Me  **[sonu7055k@gmail.com](mailto:sonu7055k@gmail.com)**
 
-* 🔭 **Currently Working On:** Wanderlust – A Full-Stack Travel Accommodation Platform
-* 🌱 **Currently Learning:** Advanced MERN Stack Development and System Design
-* 💼 **Featured Projects:** Wanderlust and Stock Trading Platform
-* 🧠 **Problem Solving:** Regularly solving Data Structures and Algorithms problems on LeetCode
-* 👯 **Open to Collaborate On:** Full-Stack Web Development and Open Source Projects
-* 🚀 **Core Skills:** MongoDB, Express.js, React.js, Node.js, JavaScript, HTML, CSS, Bootstrap
-* 📈 **Interests:** Software Development, Competitive Programming, and Scalable Web Applications
-* ⚡ **Fun Fact:** I love turning ideas into real-world applications through code
+**Currently Working On:** Wanderlust – A Full-Stack Travel Accommodation Platform
+ **Currently Learning:** Advanced MERN Stack Development and System Design
+ **Featured Projects:** Wanderlust and Stock Trading Platform
+ **Problem Solving:** Regularly solving Data Structures and Algorithms problems on LeetCode
+ **Open to Collaborate On:** Full-Stack Web Development and Open Source Projects
+ **Core Skills:** MongoDB, Express.js, React.js, Node.js, JavaScript, HTML, CSS, Bootstrap
+**Interests:** Software Development, Competitive Programming, and Scalable Web Applications
+**Fun Fact:** I love turning ideas into real-world applications through code
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sonu_07055) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu-sagar-373707306/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sufarwithsonu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sonu7055k@gmail.com) 
